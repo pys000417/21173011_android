@@ -15,3 +15,6 @@
 <img width="" height="" src="./Pic/5-2.PNG"></img>
 <img width="" height="" src="./Pic/5-3.PNG"></img>
 <img width="" height="" src="./Pic/5-4.PNG"></img>
+
+# 6주차 과제
+<img width="" height="" src="./Pic/6-1.PNG"></img>
